@@ -38,7 +38,6 @@ I am in the last years of my Business Administration career which gave me a set 
   <img src="https://api.iconify.design/logos:postgresql.svg" alt="postgreSQL" height="40" width="40"/> 
   <img src="https://api.iconify.design/logos:sequelize.svg" alt="sequelize" height="40" width="40"/> 
   <img src="https://api.iconify.design/logos:git.svg" alt="git" height="40" width="40"/> 
-  <img src="https://api.iconify.design/logos:github.svg" alt="github" height="40" width="40"/> 
   <img src="https://api.iconify.design/logos:terminal.svg" alt="terminal" height="40" width="40"/> 
   <img src="https://api.iconify.design/logos:visual-studio.svg" alt="visualstudio" height="40" width="40"/> 
   
