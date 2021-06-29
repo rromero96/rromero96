@@ -24,6 +24,8 @@ I am in the last years of my Business Administration career which gave me a set 
 
 <br />
 
+<br />
+
 ### Languages and Tools:
 <br />
 <p align="left">
