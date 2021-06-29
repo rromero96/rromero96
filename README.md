@@ -1,4 +1,4 @@
-# Hi there, I'm Rodrigo Romero 👋
+<h1 align="center">Hi there, I'm Rodrigo 👋!</h1>
 
 I'm a focused, dedicated Full Stack Developer 👨‍💻. I'm passionate about solving problems, learning new technologies and mastering the ones I already know: JavaScript, React, Redux, HTML5, CSS, NodeJs, Express, Git, Scrum, Sequelize, and PostgreSQL as a database.
 
@@ -27,7 +27,7 @@ I am in the last years of my Business Administration career which gave me a set 
 
 <br />
 
-### Languages and Tools:
+<h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
   <img src="https://api.iconify.design/vscode-icons:file-type-html.svg" alt="html5" height="40" width="40"/>
