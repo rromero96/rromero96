@@ -40,7 +40,7 @@ I am in the last years of my Business Administration career which gave me a set 
   <img src="https://api.iconify.design/logos:javascript.svg" alt="javascript" height="40" width="40"/>
   <img src="https://api.iconify.design/logos:react.svg" alt="react" height="40" width="40"/>
   <img src="https://api.iconify.design/logos:redux.svg" alt="redux" height="40" width="40"/>  
-  <img src="https://api.iconify.design/logos:node.svg" alt="node" height="40" width="40"/>  
+  <img src="https://api.iconify.design/logos:node-js.svg" alt="node" height="40" width="40"/>  
   <img src="https://api.iconify.design/simple-icons:express.svg" alt="express" height="40" width="40"/>  
   <img src="https://api.iconify.design/logos:postgresql.svg" alt="postgreSQL" height="40" width="40"/> 
   <img src="https://api.iconify.design/logos:sequelize.svg" alt="sequelize" height="40" width="40"/> 
