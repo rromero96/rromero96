@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Rodrigo 👋!</h1>
+# Hi there, I'm Rodrigo 👋!
 
 I'm a focused, dedicated Full Stack Developer 👨‍💻. I'm passionate about solving problems, learning new technologies and mastering the ones I already know: JavaScript, React, Redux, HTML5, CSS, NodeJs, Express, Git, Scrum, Sequelize, and PostgreSQL as a database.
 
