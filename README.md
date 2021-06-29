@@ -8,7 +8,7 @@ I am in the last years of my Business Administration career which gave me a set 
 ## I'm a BBA Student and a Full Stack Developer!!
 
 - 🔭 I’m currently working in an e-commerce as the final proyect of my coding bootcamp!
-- 📚  My hard skill are: **Javascript, Node, React, Redux, PostgreSQL, Sequelize, Express**
+- 📚  My hard skill are: **Javascript, Node, React, Redux, PostgreSQL, Sequelize and Express**
 - 🌱 I’m looking forward to learn **React Native, Java, Python, MongoDB and Firebase**
 - 😄 I'm open to learn new technologies!!!
 - 📫 How to reach me **rodrigoignacio932@gmail.com**
