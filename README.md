@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in an e-commerce as the final proyect of my coding bootcamp!
 - 📚  My hard skill are: **Javascript, Node, React, Redux, PostgreSQL, Sequelize, Express**
-- 🌱 I’m looking forward to learn **React Native, Java, Python, MongoDB, Firebase **
+- 🌱 I’m looking forward to learn **React Native, Java, Python, MongoDB, Firebase**
 - 📫 How to reach me **rodrigoignacio932@gmail.com**
 - ⚡ Fun fact: I love blockchain development and Stock Market.
 - 📚 Professional projects in my [Github](https://github.com/rromero96) repository 
