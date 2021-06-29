@@ -1,11 +1,16 @@
 # Hi there, I'm Rodrigo Romero 👋
 
+I'm a focused, dedicated Full Stack Developer 👨‍💻. I'm passionate about solving problems, learning new technologies and mastering the ones I already know: JavaScript, React, Redux, HTML5, CSS, NodeJs, Express, Git, Scrum, Sequelize, and PostgreSQL as a database.
+
+I am in the last years of my Business Administration career which gave me a set of skills in planning, abstract thinking, understanding of user experience and team work!
+
 
 ## I'm a BBA Student and a Full Stack Developer!!
 
 - 🔭 I’m currently working in an e-commerce as the final proyect of my coding bootcamp!
 - 📚  My hard skill are: **Javascript, Node, React, Redux, PostgreSQL, Sequelize, Express**
-- 🌱 I’m looking forward to learn **React Native, Java, Python, MongoDB, Firebase**
+- 🌱 I’m looking forward to learn **React Native, Java, Python, MongoDB and Firebase**
+- 😄 I'm open to learn new technologies!!!
 - 📫 How to reach me **rodrigoignacio932@gmail.com**
 - ⚡ Fun fact: I love blockchain development and Stock Market.
 - 📚 Professional projects in my [Github](https://github.com/rromero96) repository 
