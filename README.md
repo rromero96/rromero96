@@ -17,10 +17,10 @@ I am in the last years of my Business Administration career which gave me a set 
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 
 
@@ -38,6 +38,18 @@ I am in the last years of my Business Administration career which gave me a set 
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+
+<p align="center">
+  <img src="https://api.iconify.design/vscode-icons:file-type-html.svg" alt="html5" height="40" width="40"/>
+  <img src="https://api.iconify.design/vscode-icons:file-type-css.svg" alt="css3" height="40" width="40"/>
+  <img src="https://api.iconify.design/logos:javascript.svg" alt="javascript" height="40" width="40"/>
+  <img src="https://api.iconify.design/logos:react.svg" alt="react" height="40" width="40"/>
+  <img src="https://api.iconify.design/logos:redux.svg" alt="redux" height="40" width="40"/>  
+  <img src="https://api.iconify.design/logos:material-ui.svg" alt="material-ui" height="40" width="40"/>  
+  <img src="https://api.iconify.design/simple-icons:express.svg" alt="express" height="40" width="40"/>  
+  <img src="https://api.iconify.design/logos:postgresql.svg" alt="postgreSQL" height="40" width="40"/> 
+  <img src="https://api.iconify.design/logos:sequelize.svg" alt="sequelize" height="40" width="40"/> 
+<p>
 
 <br />
 <br />
