@@ -8,7 +8,7 @@
 - 🌱 I’m looking forward to learn **React Native, Java, Python, MongoDB and Firebase **
 - 📫 How to reach me **rodrigoignacio932@gmail.com**
 - ⚡ Fun fact: I love blockchain development and Stock Market.
-- 📚 Professional projects in my [Github](https://githab.com/rromero96) repository 
+- 📚 Professional projects in my [Github](https://github.com/rromero96) repository 
 
 ### Connect with me:
 
