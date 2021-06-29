@@ -1,15 +1,7 @@
-### Hi there, I'm Rodrigo Romero - [codeSTACKr][website] 👋
+### Hi there, I'm Rodrigo Romero 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a BBA Student and a Full Stack Developer!!
-
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-
 
 - 🔭 I’m currently working in an e-commerce as the final proyect of my coding bootcamp!
 - 📚  My hard skill are: **Javascript, Node, React, Redux, PostgreSQL, Sequelize, Express**
@@ -61,6 +53,7 @@
 [instagram]: https://www.instagram.com/rodrii_ignacio/
 [linkedin]: https://www.linkedin.com/in/rromero96/
 [whatsapp]: https://wa.link/uako6p
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 
 
 
