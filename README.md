@@ -26,10 +26,8 @@ I am in the last years of my Business Administration career which gave me a set 
 
 
 <br />
-
-<h3 align="center">Languages and Tools:</h3>
-
-<p align="center">
+### Languages and Tools:
+<p align="left">
   <img src="https://api.iconify.design/vscode-icons:file-type-html.svg" alt="html5" height="40" width="40"/>
   <img src="https://api.iconify.design/vscode-icons:file-type-css.svg" alt="css3" height="40" width="40"/>
   <img src="https://api.iconify.design/logos:javascript.svg" alt="javascript" height="40" width="40"/>
