@@ -29,7 +29,6 @@ I am in the last years of my Business Administration career which gave me a set 
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
@@ -41,7 +40,7 @@ I am in the last years of my Business Administration career which gave me a set 
   <img src="https://api.iconify.design/logos:javascript.svg" alt="javascript" height="40" width="40"/>
   <img src="https://api.iconify.design/logos:react.svg" alt="react" height="40" width="40"/>
   <img src="https://api.iconify.design/logos:redux.svg" alt="redux" height="40" width="40"/>  
-  <img src="https://api.iconify.design/logos:material-ui.svg" alt="material-ui" height="40" width="40"/>  
+  <img src="https://api.iconify.design/logos:node.svg" alt="node" height="40" width="40"/>  
   <img src="https://api.iconify.design/simple-icons:express.svg" alt="express" height="40" width="40"/>  
   <img src="https://api.iconify.design/logos:postgresql.svg" alt="postgreSQL" height="40" width="40"/> 
   <img src="https://api.iconify.design/logos:sequelize.svg" alt="sequelize" height="40" width="40"/> 
