@@ -1,4 +1,4 @@
-### Hi there, I'm Rodrigo Romero 👋
+# Hi there, I'm Rodrigo Romero 👋
 
 
 ## I'm a BBA Student and a Full Stack Developer!!
