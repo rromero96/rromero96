@@ -24,9 +24,8 @@ I am in the last years of my Business Administration career which gave me a set 
 
 
 
-
-<br />
 ### Languages and Tools:
+<br />
 <p align="left">
   <img src="https://api.iconify.design/vscode-icons:file-type-html.svg" alt="html5" height="40" width="40"/>
   <img src="https://api.iconify.design/vscode-icons:file-type-css.svg" alt="css3" height="40" width="40"/>
