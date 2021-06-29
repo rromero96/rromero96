@@ -45,7 +45,7 @@ I am in the last years of my Business Administration career which gave me a set 
   <img src="https://api.iconify.design/simple-icons:express.svg" alt="express" height="40" width="40"/>  
   <img src="https://api.iconify.design/logos:postgresql.svg" alt="postgreSQL" height="40" width="40"/> 
   <img src="https://api.iconify.design/logos:sequelize.svg" alt="sequelize" height="40" width="40"/> 
-  <img src="https://code.iconify.design/1/1.0.7/iconify.min.js" alt="visualstudio" height="40" width="40"/> 
+  <img src="https://api.iconify.design/logos:visual-studio.svg" alt="visualstudio" height="40" width="40"/> 
 <p>
 
 <br />
