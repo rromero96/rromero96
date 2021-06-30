@@ -54,7 +54,7 @@ I am in the last years of my Business Administration career which gave me a set 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rromero96&show_icons=true&hide_border=true&count_private=true" alt="roro" />
 </a>
  <a href="https://github.com/rromero96">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rromero96&show_icons=true&hide_border=true&count_private=true" alt="roro" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rromero96&hide_border=true" alt="roro" />
 </a>
 
 
@@ -71,10 +71,11 @@ I am in the last years of my Business Administration career which gave me a set 
   <img align="center" />
 </a>
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=rromero96&repo=PI-Pokemon-FT13&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+ 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=rromero96&repo=PI-Pokemon-FT13)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-    
+ 
     
 
 
