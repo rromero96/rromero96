@@ -68,14 +68,10 @@ I am in the last years of my Business Administration career which gave me a set 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=rromero96&repo=PI-Pokemon-FT13&show_owner=true" />
 </a>
 <a href="">
-  <img align="center" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=rromero96&repo=amazona_e-commerce&show_owner=true" />
 </a>
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=rromero96&repo=PI-Pokemon-FT13&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
- 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=rromero96&repo=PI-Pokemon-FT13)](https://github.com/anuraghazra/github-readme-stats)
 
- 
     
 
 
