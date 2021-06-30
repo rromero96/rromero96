@@ -53,10 +53,12 @@ I am in the last years of my Business Administration career which gave me a set 
   <a href="https://github.com/rromero96">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rromero96&show_icons=true&hide_border=true&count_private=true" alt="roro" />
 </a>
- <a href="https://github.com/rromero96">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rromero96&hide_border=true" />
-</a>
+
   
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
   ---
 
