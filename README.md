@@ -63,6 +63,10 @@ I am in the last years of my Business Administration career which gave me a set 
 
   ---
 
+  <h3>Pokedex</h3>
+ <a href="https://github.com/rromero96/PI-Pokemon-FT13">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=rromero96&repo=PI-Pokemon-FT13&show_owner=true" />
+</a>
 
    
 
