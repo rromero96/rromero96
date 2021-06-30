@@ -53,9 +53,12 @@ I am in the last years of my Business Administration career which gave me a set 
   
   ---
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rromero96&repo=PI-Pokemon-FT13)](https://github.com/anuraghazra/github-readme-stats)
+  <h3>Pokedex</h3>
 
-
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=rromero96&repo=PI-Pokemon-FT13&show_owner=true)](https://github.com/rromero96/PI-Pokemon-FT13)
+ 
+    
+    
 
 
 
