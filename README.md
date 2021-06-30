@@ -51,10 +51,10 @@ I am in the last years of my Business Administration career which gave me a set 
   
   
   <a href="https://github.com/rromero96">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rromero96&show_icons=true&hide_border=true&count_private=true" alt="roro" />
+  <img align="center" src="https://github-readme-stats-nine-flax.vercel.app/api?username=rromero96&show_icons=true&hide_border=true&count_private=true" alt="roro" />
 </a>
  <a href="https://github.com/rromero96">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rromero96&hide_border=true" alt="roro" />
+  <img align="center" src="https://github-readme-stats-nine-flax.vercel.app/api/top-langs?username=rromero96&hide_border=true" alt="roro" />
 </a>
 
 
@@ -65,10 +65,10 @@ I am in the last years of my Business Administration career which gave me a set 
 
   <h3>Pokedex</h3>
  <a href="https://github.com/rromero96/PI-Pokemon-FT13">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=rromero96&repo=PI-Pokemon-FT13&show_owner=true" />
+  <img align="center" src="https://github-readme-stats-nine-flax.vercel.app/api/pin?username=rromero96&repo=PI-Pokemon-FT13&show_owner=true" />
 </a>
 
-   
+  
 
 
 
@@ -96,4 +96,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://github-readme-stats.vercel.app
 -->
