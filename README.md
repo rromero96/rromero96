@@ -48,7 +48,8 @@ I am in the last years of my Business Administration career which gave me a set 
 <br />
   
   
-  ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rromero96&hide=contribs,prs)
+  ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rromero96&show_icons=true&hide_border=true)
+
 
 
 
