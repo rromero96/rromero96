@@ -5,8 +5,6 @@ I'm a focused, dedicated Full Stack Developer 👨‍💻. I'm passionate about 
 I am in the last years of my Business Administration career which gave me a set of skills in planning, abstract thinking, understanding of user experience and team work!
 
 <img align='right' src="https://media3.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400">
-<p><em>Full Stack Developer at <a href="https://www.soyhenry.com">Soy Henry Bootcamp</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="60"></br>
-</em></p>
 
 
 ## I'm a BBA Student and a Full Stack Developer!!
