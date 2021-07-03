@@ -1,6 +1,6 @@
 # Hi there, I'm Rodrigo 👋!
 
-<img align='right' src="https://media3.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400">
+
 
 I'm a focused, dedicated Full Stack Developer 👨‍💻. I'm passionate about solving problems, learning new technologies and mastering the ones I already know: JavaScript, React, Redux, HTML5, CSS, NodeJs, Express, Git, Scrum, Sequelize, and PostgreSQL as a database.
 
