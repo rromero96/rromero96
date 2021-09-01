@@ -14,7 +14,7 @@ I am in the last years of my Business Administration career which gave me a set 
 
 ## I'm a BBA Student and a Full Stack Developer!!
 
-- 🔭 I’m currently working in VU Security as a Junior Software Developer and learning Java!
+- 🔭 I’m currently working in **VU Security** as a **Junior Software Developer** and learning **Java**!
 - 📚  My hard skill are: **Javascript, Node, React, Redux, PostgreSQL, Sequelize and Express**
 - 🌱 I’m looking forward to learn **React Native, Python, MongoDB and Firebase**
 - 😄 I'm open to learn new technologies!!!
