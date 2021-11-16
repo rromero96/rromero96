@@ -14,9 +14,9 @@ I am in the last years of my Business Administration career which gave me a set 
 
 ## I'm a BBA Student and a Full Stack Developer!!
 
-- 🔭 I’m currently working in **VU Security** as a **Junior Software Developer** and learning **Java**!
+- 🔭 I’m currently working in **Mercado Libre** as a **Software Developer** and learning **Go**!
 - 📚  My hard skill are: **Javascript, Node, React, Redux, PostgreSQL, Sequelize and Express**
-- 🌱 I’m looking forward to learn **React Native, Python, MongoDB and Firebase**
+- 🌱 I’m looking forward to learn **Python,Java, C++, Mongo DB, Smart Contracts and Blockchain development with Solidity**
 - 😄 I'm open to learn new technologies!!!
 - 📫 How to reach me **rodrigoignacio932@gmail.com**
 - ⚡ Fun fact: I love blockchain development and Stock Market.
