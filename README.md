@@ -43,7 +43,7 @@ I am in the last years of my Business Administration career which gave me a set 
   <img src="https://api.iconify.design/logos:redux.svg" alt="redux" height="40" width="40"/>  
   <img src="https://api.iconify.design/logos:nodejs.svg" alt="node" height="40" width="40"/>  
   <img src="https://api.iconify.design/simple-icons:express.svg" alt="express" height="40" width="40"/>
-  <img src="https://api.iconify.design/logos:go.svg" alt="javascript" height="40" width="40"/>
+  <img src="https://api.iconify.design/logos:go.svg" alt="javascript" height="60" width="60"/>
   <img src="https://api.iconify.design/logos:postgresql.svg" alt="postgreSQL" height="40" width="40"/> 
   <img src="https://api.iconify.design/logos:sequelize.svg" alt="sequelize" height="40" width="40"/> 
   <img src="https://api.iconify.design/logos:git.svg" alt="git" height="40" width="40"/> 
