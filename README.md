@@ -6,7 +6,7 @@
 <img align='right' src="https://media3.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250">
 
 
-I'm a focused, dedicated Full Stack Developer 👨‍💻. I'm passionate about solving problems, learning new technologies and mastering the ones I already know: JavaScript, React, Redux, HTML5, CSS, NodeJs, Express, Git, Scrum, Sequelize, and PostgreSQL as a database.
+I'm a focused, dedicated Full Stack Developer 👨‍💻. I'm passionate about solving problems, learning new technologies and mastering the ones I already know: JavaScript, React, Redux, HTML5, CSS, NodeJs, Express, Go, Gin, Git, Scrum, Sequelize, and PostgreSQL as a database.
 
 I am in the last years of my Business Administration career which gave me a set of skills in planning, abstract thinking, understanding of user experience and team work!
 
