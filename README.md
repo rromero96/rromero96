@@ -16,7 +16,7 @@ I am in the last years of my Business Administration career which gave me a set 
 
 - 🔭 I’m currently working in **Mercado Libre** as a **Software Developer** with **Go**!
 - 📚  My hard skill are: **Javascript, Node, Go, Gin, React, Redux, PostgreSQL, Sequelize and Express.**
-- 🌱 I’m looking forward to learn **Python, Java, C++, Mongo DB, Smart Contracts with Solidity and Blockchain development with Go.**
+- 🌱 I’m looking forward to learn **Smart Contracts** with **Solidity** and **Blockchain development** with **Go.**
 - 😄 I'm open to learn new technologies!!!
 - 📫 How to reach me **rodrigoignacio932@gmail.com**
 - ⚡ Fun fact: I love blockchain development and Stock Market.
