@@ -19,7 +19,7 @@ I am in the last years of my Business Administration career which gave me a set 
 - 🌱 I’m looking forward to learn **Smart Contracts** with **Solidity** and **Blockchain development** with **Go.**
 - 😄 I'm open to learn new technologies!!!
 - 📫 How to reach me **rodrigoignacio932@gmail.com**
-- ⚡ Fun fact: I love blockchain development and Stock Market.
+- ⚡ Fun fact: I love blockchain, criptocurrency and Stock Market.
 - 📚 Professional projects in my [Github](https://github.com/rromero96) repository 
 
 ### Connect with me:
