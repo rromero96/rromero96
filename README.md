@@ -75,10 +75,7 @@ I am in the last years of my Business Administration career which gave me a set 
  <a href="https://github.com/rromero96/PI-Pokemon-FT13">
   <img src="https://github-readme-stats-nine-flax.vercel.app/api/pin?username=rromero96&repo=PI-Pokemon-FT13&show_owner=true" />
 </a>
- <a href="https://github.com/rromero96/GoBlockchain">
-  <img src="https://github-readme-stats-nine-flax.vercel.app/api/pin?username=rromero96&repo=GoBlockchain&show_owner=true" />
-</a>
-  
+
   
  
 </details>
