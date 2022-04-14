@@ -63,7 +63,7 @@ I am in the last years of my Business Administration career which gave me a set 
   <img align="center" src="https://github-readme-stats-nine-flax.vercel.app/api?username=rromero96&show_icons=true&hide_border=true&count_private=true" alt="roro" />
 </a>
  <a href="https://github.com/rromero96">
-  <img align="center" src="https://github-readme-stats-nine-flax.vercel.app/api/top-langs?username=rromero96&hide_border=true" alt="roro" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rromero96&hide_border=true" alt="roro" />
 </a>
 
 
