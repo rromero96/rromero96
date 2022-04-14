@@ -72,13 +72,12 @@ I am in the last years of my Business Administration career which gave me a set 
 
   ---
   <h3 align="left">Pokedex</h3>
+  <h3 align="right">Go Blockchain</h3>
  <a href="https://github.com/rromero96/PI-Pokemon-FT13">
-  <img align="center" src="https://github-readme-stats-nine-flax.vercel.app/api/pin?username=rromero96&repo=PI-Pokemon-FT13&show_owner=true" />
+  <img align="left" src="https://github-readme-stats-nine-flax.vercel.app/api/pin?username=rromero96&repo=PI-Pokemon-FT13&show_owner=true" />
 </a>
-
-<h3 align="right">Go Blockchain</h3>
  <a href="https://github.com/rromero96/GoBlockchain">
-  <img align="center" src="https://github-readme-stats-nine-flax.vercel.app/api/pin?username=rromero96&repo=GoBlockchain&show_owner=true" />
+  <img align="right" src="https://github-readme-stats-nine-flax.vercel.app/api/pin?username=rromero96&repo=GoBlockchain&show_owner=true" />
 </a>
   
 
