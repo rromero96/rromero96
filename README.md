@@ -8,11 +8,11 @@
 
 I'm a focused, dedicated Full Stack Developer 👨‍💻. I'm passionate about solving problems, learning new technologies and mastering the ones I already know: JavaScript, React, Redux, HTML5, CSS, NodeJs, Express, Go, Gin, Git, Scrum, Sequelize, MySql and PostgreSQL as a database.
 
-I am in the last year of my Business Administration career which gave me a set of skills in planning, abstract thinking, understanding of user experience and team work!
+I recently finished my Bachelor in Business Administration which gave me a set of skills in planning, abstract thinking, understanding of user experience and team work!
 
 
 
-## I'm a BBA Student and a Full Stack Developer!!
+## I'm a BBA and a Full Stack Developer!!
 
 - 🔭 I’m currently working in **Mercado Libre** as a **Software Developer** with **Go**!
 - 📚  My hard skills are: **Javascript, Node, Go, Gin, React, Redux, PostgreSQL, Sequelize and Express.**
